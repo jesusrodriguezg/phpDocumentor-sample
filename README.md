@@ -5,7 +5,7 @@ This is a simple project created as classwork documentation for the Web Applicat
 
 This repository includes a funcion.php file that randomizes two integer numbers into two variables $a and $b, and then passes them as arguments to a function suma(), wich adds them and return the result as an integer. Finally, the script prints the result alongside with the random values of $a and $b.
 
-The script also contains the DocBlock info for phpDocumentor to auto-generate the api docs included in this repository.
+The script also contains the DocBlock info for phpDocumentor to auto-generate the documentation. The auto-generated docs/api folder is included in this repository, as well as a PDF file with the documented process followed in order to auto-generate the script's docs.
 
 ---
 
@@ -15,4 +15,4 @@ The script also contains the DocBlock info for phpDocumentor to auto-generate th
 
 El repositorio incluye un archivo funcion.php que genera aleatoriamente dos números enteros en dos variables $a y $b, y luego los pasa como argumentos a la función suma(), que los suma y devuelve el resultado como un entero. Por último, el script imprime el resultado junto con los valores aleatorios de $a y $b.
 
-El script también contiene el DocBlock con información para que phpDocumentor genere la documentación incluida en este repositorio.
+El script también contiene el DocBlock con información para que phpDocumentor genere la documentación. La carpeta docs/api está incluida en este repositorio, así como un archivo PDF con la documentación sobre el proceso seguido para auto-generar la documentación del script.
